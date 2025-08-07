@@ -13,6 +13,7 @@ _comments:
 ---
 
 > 泰国当代最知名的高僧大德之一，尤其以心念住和法念住的教导闻名于世
+
 ### 官方网站：
 * 泰文：<a href="https://www.dhamma.com/" target="_blank">https://www.dhamma.com/</a>
 * 中文：<a href="https://www.dhamma.com/zh/" target="_blank">https://www.dhamma.com/zh/</a>
