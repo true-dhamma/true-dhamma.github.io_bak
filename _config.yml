@@ -40,7 +40,7 @@ url: https://true-dhamma.github.io
 baseurl: 
 google_analytics_key: 
 show_full_navigation: true
-logo: "/favicon.png"
+logo: "/siteicon.png"
 description: Product documentation template for Jekyll.
 author:
   name: 智宁居士
