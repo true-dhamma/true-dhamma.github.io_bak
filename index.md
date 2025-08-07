@@ -2,7 +2,9 @@
 title: 中文佛法资料
 ---
 
-为 **渴望** 或 **正在** 真切 **实践佛陀教法** 的 **华人** 而设立
+### 为 **渴望** 或 **正在** 真切 **实践佛陀教法** 的 **华人** 而设立
+
+提供南传上座部佛法、高僧大德书籍开示、《世间成瘾与出世间觉悟》及成瘾与戒断心理学相关内容下载。部分内容为作者本人撰写、翻译、整理，全网唯一。
 
 This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).中文佛法资料
 **Edition** is perfect for documenting your product, application or service.
