@@ -9,6 +9,7 @@ tags:
 - 心理学
 _comments:
   category: Addition
+  order: 2
 ---
 
 提供Allen Carr's Easy Way、Jack Trimpey's Ration Racovery及AVRT、EasyPeasy Way等相关公开版权的内容或音视频的中文翻译。帮助了解以下成瘾的本质，并以智慧或觉性戒断：
