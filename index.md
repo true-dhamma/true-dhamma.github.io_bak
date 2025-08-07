@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: 中文佛法资料
 ---
 
 This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
