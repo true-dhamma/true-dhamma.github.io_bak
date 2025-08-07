@@ -1,6 +1,14 @@
 ---
 title: 成瘾/以智慧戒断
 date: 2025-08-07 19:53:00 +08:00
+categories:
+- Additions
+tags:
+- 成瘾
+- 戒断
+- 心理学
+_comments:
+  category: Addition
 ---
 
 提供Allen Carr's Easy Way、Jack Trimpey's Ration Racovery及AVRT、EasyPeasy Way等相关公开版权的内容或音视频的中文翻译。帮助了解以下成瘾的本质，并以智慧或觉性戒断：
