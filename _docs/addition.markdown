@@ -12,14 +12,18 @@ _comments:
   order: 2
 ---
 
-提供Allen Carr's Easy Way、Jack Trimpey's Ration Racovery及AVRT、EasyPeasy Way等相关公开版权的内容或音视频的中文翻译。帮助了解以下成瘾的本质，并以智慧或觉性戒断：
+> 成瘾是堕入轮回不可自拔的体现，以智慧戒断成瘾则是从轮回中解脱的开始
 
-烟、糖、药物等等（EasyWay）
+提供相关公开版权的内容或音视频的中文翻译：
+* Allen Carr's Easy Way
+* Jack Trimpey's Ration Racovery及AVRT
+* EasyPeasy Way等
 
-酒精、肥胖（RR/AVRT）
-
-色情（EasyPeasy）
+帮助了解以下成瘾的本质，并以智慧或觉性戒断：
+* 烟、糖、药物等等（EasyWay）
+* 酒精、肥胖（RR/AVRT）
+* 色情（EasyPeasy）
 
 ......详情请访问 [True-Dhamma网盘][1]
 
-[1]: https://download.true-dhamma.com/%E6%88%90%E7%98%BE%E4%B8%8E%E5%BF%83%E7%90%86%E5%AD%A6/
+[1]: 
