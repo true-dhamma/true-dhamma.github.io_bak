@@ -2,6 +2,8 @@
 title: 中文佛法资料
 ---
 
+为 **渴望** 或 **正在** 真切 **实践佛陀教法** 的 **华人** 而设立
+
 This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).中文佛法资料
 **Edition** is perfect for documenting your product, application or service.
 It's populated with example content to give you some ideas.
