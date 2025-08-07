@@ -51,8 +51,8 @@ title: 中文佛法资源
 </table>
 
 ## True Dhamma 网站
-* http://www.true-dhamma.com
 * http://true-dhamma.github.io
+* http://www.true-dhamma.com
 * http://download.true-dhamma.com
 
 > 2025 智宁居士 zhining@gmx.com
