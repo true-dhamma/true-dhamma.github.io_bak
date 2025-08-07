@@ -29,4 +29,4 @@ _comments:
 * ...全部电子书下载 <a href="https://download.true-dhamma.com/%E9%9A%86%E5%A1%94%E7%BA%B3%E8%8D%A3%E8%90%A8%E5%B0%8A%E8%80%85/%E7%94%B5%E5%AD%90%E4%B9%A6/" target="_blank">[True-Dhamma网盘]</a>
 
 **法谈：**
-全网唯一，包含近200篇隆塔泰语法谈视频的中文翻译。因语言识别及AI翻译质量问题，请修行者在已有相当基础的情况下使用。<a href="https://download.true-dhamma.com/%E9%9A%86%E5%A1%94%E7%BA%B3%E8%8D%A3%E8%90%A8%E5%B0%8A%E8%80%85/%E6%B3%95%E8%B0%88%EF%BC%88AI%E7%BF%BB%E8%AF%91-%E8%B4%A8%E9%87%8F%E5%8F%82%E5%B7%AE%E4%B8%8D%E9%BD%90%EF%BC%89/" target="_blank">[True-Dhamma网盘]</a>
+全网唯一，包含近200篇隆塔泰语法谈视频的中文翻译。因语言识别及AI翻译质量问题，请修行者在已有相当基础的情况下使用。下载 <a href="https://download.true-dhamma.com/%E9%9A%86%E5%A1%94%E7%BA%B3%E8%8D%A3%E8%90%A8%E5%B0%8A%E8%80%85/%E6%B3%95%E8%B0%88%EF%BC%88AI%E7%BF%BB%E8%AF%91-%E8%B4%A8%E9%87%8F%E5%8F%82%E5%B7%AE%E4%B8%8D%E9%BD%90%EF%BC%89/" target="_blank">[True-Dhamma网盘]</a>
