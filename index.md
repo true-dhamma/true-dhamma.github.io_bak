@@ -52,6 +52,7 @@ title: 中文佛法资源
 
 ## True Dhamma 网站
 * http://true-dhamma.github.io
+* http://sites.google.com/view/true-dhamma
 * http://www.true-dhamma.com
 * http://download.true-dhamma.com
 
