@@ -16,7 +16,7 @@ _comments:
 
 **提供相关公开版权的内容或音视频的中文翻译：**
 * Allen Carr's Easy Way
-* Jack Trimpey's Ration Racovery及AVRT
+* Jack Trimpey's Rational Racovery及AVRT
 * EasyPeasy Way等
 
 **帮助了解以下成瘾的本质，并以智慧或觉性戒断：**
