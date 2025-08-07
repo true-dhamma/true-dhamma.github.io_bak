@@ -38,7 +38,7 @@ defaults:
       type: Marks the impact of this release
 url: https://true-dhamma.github.io
 baseurl: 
-google_analytics_key: 
+google_analytics_key: GTM-M9VNH47B
 show_full_navigation: true
 logo: "/siteicon.png"
 description: Product documentation template for Jekyll.
