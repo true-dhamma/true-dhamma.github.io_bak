@@ -11,12 +11,11 @@ _comments:
   order: 5
 ---
 
-### 官方网站：
+**官方网站：**
 * 泰文：https://www.luangtanarongsak.org/
 * 泰文Youtube：https://www.youtube.com/@%E0%B9%80%E0%B8%AA...
 * 英文Youtube：https://www.youtube.com/@luangtanarongsakkheenalayo3071
-### 电子书
-**全网唯一，包含所有隆塔已面世书籍的高质量中文翻译**
+**电子书（全网唯一，包含所有隆塔已面世书籍的高质量中文翻译）：**
 * <a href="https://download.true-dhamma.com/%E9%9A%86%E5%A1%94%E7%BA%B3%E8%8D%A3%E8%90%A8%E5%B0%8A%E8%80%85/%E7%94%B5%E5%AD%90%E4%B9%A6/%E6%AD%A2%E4%BA%8E%E5%BF%83&%E6%B3%95%E8%AF%AD108%20v1.1.pdf" target="_blank">《止于心&法语108 v1.1》中文版</a> -（<a href="https://www.luangtanarongsak.org/home/index.php/2017-10-14-13-19-49/2017-11-12-10-51-16/item/1415-book-06" target="_blank">泰语原版链接</a>）
 * <a href="https://download.true-dhamma.com/%E9%9A%86%E5%A1%94%E7%BA%B3%E8%8D%A3%E8%90%A8%E5%B0%8A%E8%80%85/%E7%94%B5%E5%AD%90%E4%B9%A6/%E4%BF%AE%E8%A1%8C%EF%BC%88%E7%AC%AC%E4%B8%80%E5%86%8C%EF%BC%89%20-%20%E9%9A%86%E5%A1%94%E7%BA%B3%E8%8D%A3%E8%90%A8.epub" target="_blank">《修行（第一册）》中文版</a> -（<a href="https://www.luangtanarongsak.org/home/index.php/2017-10-14-13-19-49/2017-11-12-10-51-16/item/1413-book-04" target="_blank">泰语原版链接</a>）
 * <a href="https://download.true-dhamma.com/%E9%9A%86%E5%A1%94%E7%BA%B3%E8%8D%A3%E8%90%A8%E5%B0%8A%E8%80%85/%E7%94%B5%E5%AD%90%E4%B9%A6/%E5%BD%BB%E5%BA%95%E7%BB%93%E6%9D%9F%E5%90%A7-%E9%9A%86%E5%A1%94%E7%BA%B3%E8%8D%A3%E8%90%A8.epub" target="_blank">《彻底结束吧》中文版</a> -（<a href="https://www.luangtanarongsak.org/home/index.php/2017-10-14-13-19-49/2017-11-12-10-51-16/item/1416-book-07" target="_blank">泰语原版链接</a>）
