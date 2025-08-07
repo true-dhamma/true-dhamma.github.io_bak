@@ -13,8 +13,8 @@ _comments:
 ---
 
 ### 官方网站：
-* 泰文：<a href="https://www.dhamma.com/" target="_blank" rel="noopener noreferrer">https://www.dhamma.com/</a>
-* 中文：https://www.dhamma.com/zh/
+* 泰文：<a href="https://www.dhamma.com/" target="_blank">https://www.dhamma.com/</a>
+* 中文：<a href="https://www.dhamma.com/zh/" target="_blank">https://www.dhamma.com/zh/</a>
 
 ### 第三方网站：
 * 解脱园：https://www.jietuoyuan.com/
