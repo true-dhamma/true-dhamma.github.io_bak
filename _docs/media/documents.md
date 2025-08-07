@@ -1,6 +1,7 @@
 ---
 title: Documents
-category: Media
+categories:
+- Media
 order: 3
 ---
 

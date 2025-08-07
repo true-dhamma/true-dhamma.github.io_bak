@@ -1,6 +1,7 @@
 ---
 title: Android
-category: Devices
+categories:
+- Devices
 order: 2
 ---
 

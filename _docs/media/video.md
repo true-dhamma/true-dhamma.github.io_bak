@@ -1,6 +1,7 @@
 ---
 title: Video
-category: Media
+categories:
+- Media
 order: 2
 ---
 

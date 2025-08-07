@@ -1,6 +1,7 @@
 ---
 title: iOS
-category: Devices
+categories:
+- Devices
 order: 1
 ---
 

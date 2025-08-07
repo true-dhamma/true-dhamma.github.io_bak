@@ -1,6 +1,7 @@
 ---
 title: Images
-category: Media
+categories:
+- Media
 order: 1
 ---
 
