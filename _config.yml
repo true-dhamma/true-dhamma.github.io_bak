@@ -1,6 +1,6 @@
 ---
 title: Edition Template
-timezone: Etc/UTC
+timezone: UTC
 collections:
   docs:
     title: Documentation
