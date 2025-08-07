@@ -14,12 +14,12 @@ _comments:
 
 > 成瘾是堕入轮回不可自拔的体现，以智慧戒断成瘾则是从轮回中解脱的开始
 
-提供相关公开版权的内容或音视频的中文翻译：
+**提供相关公开版权的内容或音视频的中文翻译：**
 * Allen Carr's Easy Way
 * Jack Trimpey's Ration Racovery及AVRT
 * EasyPeasy Way等
 
-帮助了解以下成瘾的本质，并以智慧或觉性戒断：
+**帮助了解以下成瘾的本质，并以智慧或觉性戒断：**
 * 烟、糖、药物等等（EasyWay）
 * 酒精、肥胖（RR/AVRT）
 * 色情（EasyPeasy）
