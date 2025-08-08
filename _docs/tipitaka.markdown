@@ -22,8 +22,7 @@ _comments:
 " alt="Snapshot 2" width="32%">
   <img src="/uploads/tipitaka_snapshot_3.png
 " alt="Snapshot 3" width="32%">
-</div>
-
+</div><br>
 
 **下载：<a href="https://download.true-dhamma.com/%E5%B7%B4%E5%88%A9%E5%9C%A3%E5%85%B8%20Tipitaka/" target="_blank">[True-Dhamma网盘]</a>**
 * **全网唯一，带目录的EPUB(推荐)/MOBI/AZW3格式**
