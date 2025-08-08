@@ -83,6 +83,11 @@ collections_config:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
+collection_groups:
+  - heading: test group
+    collections:
+      - test
+      - list
 _snippets_imports:
   jekyll: true
 timezone: Asia/Bangkok
