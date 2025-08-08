@@ -22,6 +22,15 @@ _comments:
 * 包含完整经藏、律藏，不含论藏
 * 以菩提僧团翻译的文言文底稿为基础，保留菩提僧团说明
 
+<div style="display: flex; justify-content: space-around;">
+  <img src="/uploads/tipitaka_snapshot_1.png
+" alt="Snapshot 1" width="32%">
+  <img src="/uploads/tipitaka_snapshot_2.png
+" alt="Snapshot 2" width="32%">
+  <img src="/uploads/tipitaka_snapshot_3.png
+" alt="Snapshot 3" width="32%">
+</div>
+
 巴利语（Pāli）是与佛陀及弟子所使用的摩揭陀语或相近的古代印度俗语最为接近的语言之一。《巴利圣典》（Pāḷi Tipiṭaka）被全世界公认为是现存最古老、最完整、流变最少的早期佛教经典集成，是精确记录了佛陀本人教导的核心文献。
 《乾隆大藏经》的四部《阿含经》中：《长阿含经》与巴利《长部》（Dīgha Nikāya，DN）约65%内容重合；《中阿含经》与巴利《中部》（Majjhima Nikāya，MN）约75%内容重合；《杂阿含经》与巴利《相应部》（Saṃyutta Nikāya，SN）约85%内容重合；《增一阿含经》与巴利《增支部》（Aṅguttara Nikāya，AN）约50%内容重合。
 
